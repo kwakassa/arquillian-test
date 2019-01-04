@@ -1,0 +1,7 @@
+URL do Turorial: http://arquillian.org/guides/getting_started/
+projeto gerado com o comando abaixo:
+mvn archetype:generate -DarchetypeGroupId=net.avh4.mvn.archetype -DarchetypeArtifactId=java-1.6-archetype
+
+group-id: org.arquillian.example
+artefact-id: arquillian-tutorial
+
